@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/hqpybecmc4hcm0io?svg=true)](https://ci.appveyor.com/project/vadikpkin/card-transfer-test)
 ## Auto-tests for money transfer.
 ### How to start:
 
